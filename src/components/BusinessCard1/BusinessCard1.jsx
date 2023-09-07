@@ -41,7 +41,7 @@ const BusinessCard1 = () => {
         <p className='sales-person'>peter kinyua</p>
         <p className='role'>Business Owner</p>
         {/* <p className='role'>Sales Executive</p> */}
-        <p className='phone'><i class="fas fa-phone"></i> 0791 009 379</p>
+        <p className='phone'><i class="fas fa-phone"></i> 0701 020 530</p>
         <p className='location'><i class="fas fa-map-marker-alt"></i> Sheikh Karume</p>
       </div>
 
