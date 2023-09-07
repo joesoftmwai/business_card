@@ -4,9 +4,9 @@ Why not React for the Business Card
 
 ### Output Design(s)
 
-<img src="https://github.com/joesoftmwai/business_card/blob/main/src/assets/pekims-default.png" alt="top_learners" width="210" height="350" />
+<img src="https://github.com/joesoftmwai/business_card/blob/main/src/assets/pekims-default.png" alt="top_learners" width="485" height="275" />
 
-<img src="https://github.com/joesoftmwai/business_card/blob/main/src/assets/pekims-default-dark.png" alt="top_learners" width="210" height="350" />
+<img src="https://github.com/joesoftmwai/business_card/blob/main/src/assets/pekims-default-dark.png" alt="top_learners" width="485" height="275" />
 
 
 
