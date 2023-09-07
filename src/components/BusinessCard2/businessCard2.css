@@ -5,9 +5,8 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 10px;
     margin: 40px auto;
-    background-image: url("../../assets/new-bg.png");
-    /* background-image: url("https://t4.ftcdn.net/jpg/02/95/88/87/360_F_295888748_8vDpsrrjsAcPfkLlHfQw4t6VHBlG8jR7.jpg"); */
-    /* background-image: url("https://www.crushpixel.com/big-static19/preview4/light-wood-background-white-wood-3558995.jpg"); */
+    /* background-image: url("../../assets/new-bg.png"); */
+    background-image: url("https://t4.ftcdn.net/jpg/02/95/88/87/360_F_295888748_8vDpsrrjsAcPfkLlHfQw4t6VHBlG8jR7.jpg");
     background-size: cover;
     background-color: #fff;
     overflow: hidden;
