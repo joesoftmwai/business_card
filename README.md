@@ -1,14 +1,15 @@
-# Business Card - Hardware Store
+## Business Card - Hardware Store
 
 Why not React for a Business Card
 
 ## Setting UP
 
-In the project directory, you can run:
+After cloning/ forking the project Run
 
 ### `npm install`
 
-Then:
+After installing the packages run the command:
+
 ### `npm start`
 
 Runs the app in the development mode.\
