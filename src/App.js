@@ -1,9 +1,10 @@
 
-import BusinessCard1 from './components/BusinessCard1/BusinessCard1';
+import BusinessCard2 from './components/BusinessCard2/BusinessCard2';
+
 function App() {
   return (
     <>
-      <BusinessCard1 />
+      <BusinessCard2 />
     </>
     
   );

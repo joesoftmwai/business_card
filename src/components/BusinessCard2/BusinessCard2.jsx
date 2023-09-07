@@ -38,19 +38,15 @@ const BusinessCard2 = () => {
 
       <div className='company'>
         <h2 className='title'>Pekim's Hardware</h2>
-        <p className='sales-person'>peter kinyua</p>
-        <p className='role'>Business Owner</p>
-        {/* <p className='role'>Sales Executive</p> */}
-        <p className='phone'><i class="fas fa-phone"></i> 0791 009 379</p>
+        <p className='sales-person'>isaac jomba</p>
+        {/* <p className='role'>Business Owner</p> */}
+        <p className='role'>Sales Executive</p>
+        <p className='phone'><i class="fas fa-phone"></i> 0110 909 115</p>
         <p className='location'><i class="fas fa-map-marker-alt"></i> Sheikh Karume</p>
       </div>
 
       <span className='door-lock'>
         <img src={door_lock} alt="door-lock"/>
-      </span>
-
-      <span className='curtain-holder'>
-        <img src={curtain_holder} alt="curtain-holder"/>
       </span>
 
       <span className='curtain-holder'>
